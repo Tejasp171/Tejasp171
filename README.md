@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Tejas Patil
 - 👀 I’m interested in coding
+- ✨ I'm familar with core java(OOPs , Data Structure)
 - 🌱 I’m currently learning full stack web development 
 - 💞️ I’m looking to collaborate on ...
 - 📫 reach me @tejas.patil0718@gmail.com
